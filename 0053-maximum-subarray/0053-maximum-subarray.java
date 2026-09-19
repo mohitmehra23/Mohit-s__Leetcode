@@ -4,11 +4,11 @@ class Solution {
         int currentsum = nums[0];
 
         for(int i = 1 ; i < nums.length ; i++){
-            currentsum = Math.max(nums[i] , currentsum + nums[i]); //Maximum sum of a subarray
-                                                                   //ending at current index
-          
-            maxsum = Math.max(maxsum , currentsum);        // maximum sum among all subarrays 
-        }                                                  //considered so far
+            //Maximum sum of a subarrayending at current index
+            currentsum = Math.max(nums[i] , currentsum + nums[i]); 
+          // maximum sum among all subarrays considered so far
+            maxsum = Math.max(maxsum , currentsum);        
+        }                                                
         return maxsum;
     }
 }
