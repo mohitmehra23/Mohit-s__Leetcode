@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
 |  |
