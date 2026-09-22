@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0010-regular-expression-matching) |
+| [0058-length-of-last-word](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
