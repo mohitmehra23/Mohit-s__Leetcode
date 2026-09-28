@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
