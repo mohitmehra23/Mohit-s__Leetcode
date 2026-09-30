@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/1929-concatenation-of-array) |
 ## Queue
 |  |
@@ -98,5 +100,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0054-spiral-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
