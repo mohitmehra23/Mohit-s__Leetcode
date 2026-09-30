@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Matrix
+|  |
+| ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
