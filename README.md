@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1207-unique-number-of-occurrences](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1207-unique-number-of-occurrences](https://github.com/mohitmehra23/Mohit-s__Leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
