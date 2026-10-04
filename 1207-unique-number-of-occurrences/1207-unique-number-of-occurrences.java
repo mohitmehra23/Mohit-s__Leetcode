@@ -3,6 +3,9 @@ class Solution {
         HashMap<Integer , Integer> map = new HashMap<>();
 
         for(int num : arr){
+        // Store the number as the key and its frequency as the value.
+        // If the number appears again, increase its frequency by 1;
+        // otherwise, add it with a frequency of 1
             map.put(num, (map.getOrDefault(num,0)+1));
         }
         // Create a HashSet and add all values of the map.
