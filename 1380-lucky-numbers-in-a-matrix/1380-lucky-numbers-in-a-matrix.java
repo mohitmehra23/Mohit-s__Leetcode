@@ -23,6 +23,7 @@ class Solution {
         for(int i = 0 ; i<rowmin.length ; i++){
             for( int j =0 ; j<colmax.length ; j++){
                 if(matrix[i][j] == rowmin[i] && matrix[i][j] == colmax[j])
+                //If this cell is the minimum of its row AND the maximum of its column, add it to the list because it is a lucky number.
                 list.add(matrix[i][j]);
             }
         }
